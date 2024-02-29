@@ -1,0 +1,15 @@
+C:\Users\artik\dev\dotnet-linq\bin\Debug\net8.0\dotnet-linq.exe
+C:\Users\artik\dev\dotnet-linq\bin\Debug\net8.0\dotnet-linq.deps.json
+C:\Users\artik\dev\dotnet-linq\bin\Debug\net8.0\dotnet-linq.runtimeconfig.json
+C:\Users\artik\dev\dotnet-linq\bin\Debug\net8.0\dotnet-linq.dll
+C:\Users\artik\dev\dotnet-linq\bin\Debug\net8.0\dotnet-linq.pdb
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.AssemblyInfoInputs.cache
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.AssemblyInfo.cs
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.csproj.CoreCompileInputs.cache
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.sourcelink.json
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.dll
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\refint\dotnet-linq.dll
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.pdb
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\dotnet-linq.genruntimeconfig.cache
+C:\Users\artik\dev\dotnet-linq\obj\Debug\net8.0\ref\dotnet-linq.dll
