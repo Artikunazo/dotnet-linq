@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7d909415fa7b859fe219b68cf9b4224d5d33d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efeb3526320549fdbd3e8912fcd8db314eaa0dfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-linq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
